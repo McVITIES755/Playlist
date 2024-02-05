@@ -115,7 +115,7 @@ let allMusic = [
     {
       name: "Middle Of The Night",
       artist: "Elley Duhe",
-      img: "Images/Middle-of-The-Night.jpg",
+      img: "Images/Middle-Of-The-Night.jpg",
       src: "Middle-of-The-Night"
     },
     {
